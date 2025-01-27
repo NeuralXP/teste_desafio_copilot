@@ -10,4 +10,4 @@ info_2 = input("Digite o segundo valor: ")
 
 # Exibir o resultado
 
-print("O resultado da concatenação é: ", info1 + info2)
+print("O resultado da concatenação é: ", info_1 + info_2)
